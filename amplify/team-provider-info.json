@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bathobondapp-dev-50403-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633437091435:role/amplify-bathobondapp-dev-50403-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633437091435:role/amplify-bathobondapp-dev-50403-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bathobondapp-dev-50403-deployment",
+      "UnauthRoleName": "amplify-bathobondapp-dev-50403-unauthRole",
+      "StackName": "amplify-bathobondapp-dev-50403",
+      "StackId": "arn:aws:cloudformation:us-east-1:633437091435:stack/amplify-bathobondapp-dev-50403/62a1e1d0-317e-11ed-a77c-0a36ea6f376b",
+      "AmplifyAppId": "d1fnb55n66c5n3"
+    }
+  }
+}
